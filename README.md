@@ -22,7 +22,7 @@ I'm Pablo, a seasoned Data Science Manager with over 15 years of experience leve
 
 ## 📫 How to Reach Me
 - Email: pabmarin@gmail.com
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/pablo-marin-vicuna/)
+- [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/pablo-marin-vicuna/)
 - [GitHub](https://github.com/pablo-marin-vicuna)
 
 ## 😄 Pronouns
